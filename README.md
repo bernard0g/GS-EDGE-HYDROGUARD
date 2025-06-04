@@ -81,7 +81,7 @@ Você pode testar o projeto diretamente no simulador Wokwi através do seguinte 
 
 ## 📦 Arquivos para Entrega
 
-- `HydroGuard.ino`: Código-fonte do projeto
+- `Hydroguard.ino`: Código-fonte do projeto
 - `diagram.json`: Diagrama de montagem
 - `README.md`: Este arquivo de documentação
 
