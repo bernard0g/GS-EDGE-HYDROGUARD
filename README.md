@@ -47,7 +47,7 @@ As leituras são suavizadas através da média de múltiplas amostras para reduz
 
 ## 💻 Código-Fonte
 
-O código está disponível no arquivo `HydroGuard.ino`, que inclui:
+O código está disponível no arquivo `Hydroguard.ino`, que inclui:
 
 - Leitura do sensor de nível de água com média de 5 amostras
 - Conversão da leitura para metros
