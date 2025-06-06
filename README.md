@@ -73,7 +73,7 @@ Você pode testar o projeto diretamente no simulador Wokwi através do seguinte 
 
 ## 📹 Demonstração
 
-📽️ [Link para vídeo explicativo do projeto no YouTube ou Google Drive](https://youtu.be/)
+📽️ [Link para vídeo explicativo do projeto no YouTube ou Google Drive](https://www.youtube.com/watch?v=pGiUOH7qjWI)
 
 ![Foto do projeto](image.png)
 
